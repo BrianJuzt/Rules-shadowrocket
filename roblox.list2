@@ -1,3 +1,6 @@
 DOMAIN-SUFFIX,roblox.com,PROXY
 DOMAIN-SUFFIX,rbxcdn.com,PROXY
 DOMAIN-SUFFIX,rbx.com,PROXY
+DOMAIN-SUFFIX,robloxlabs.com,PROXY
+DOMAIN-SUFFIX,rbxapis.com,PROXY
+DOMAIN-SUFFIX,assetdelivery.roblox.com,PROXY
