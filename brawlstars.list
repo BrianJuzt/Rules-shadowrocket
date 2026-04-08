@@ -1,2 +1,11 @@
-DOMAIN-REGEX,(.*\.)?(brawlstars|supercell|cdn|media|playbrawlstars|live)\.com,PROXY
-DOMAIN-REGEX,(.*\.)?(app.adjust|appsflyer)\.com,PROXY
+DOMAIN-SUFFIX,supercell.com,PROXY
+DOMAIN-SUFFIX,brawlstars.com,PROXY
+DOMAIN-SUFFIX,api.brawlstars.com,PROXY
+DOMAIN-SUFFIX,playbrawlstars.com,PROXY
+DOMAIN-SUFFIX,cdn.supercell.com,PROXY
+DOMAIN-SUFFIX,media.supercell.com,PROXY
+DOMAIN-SUFFIX,assets.supercell.com,PROXY
+DOMAIN-SUFFIX,live.brawlstars.com,PROXY
+DOMAIN-SUFFIX,analytics.supercell.com,PROXY
+DOMAIN-SUFFIX,app.adjust.com,PROXY
+DOMAIN-SUFFIX,appsflyer.com,PROXY
