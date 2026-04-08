@@ -1,2 +1,2 @@
-DOMAIN-REGEX,(.*\.)?(brawlstars|supercell|cdn|media|playbrawlstars)\.com,PROXY
+DOMAIN-REGEX,(.*\.)?(brawlstars|supercell|cdn|media|playbrawlstars|live)\.com,PROXY
 DOMAIN-REGEX,(.*\.)?(app.adjust|appsflyer)\.com,PROXY
